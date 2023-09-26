@@ -14,5 +14,6 @@ public class Ques4 {
             Snum = temp;
 
             System.out.println("The Swapped value of First num is "+FNum+" and the seocnd num is "+Snum);
+        sc.close();
     }
 }
