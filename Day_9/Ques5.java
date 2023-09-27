@@ -22,7 +22,7 @@ public class Ques5 {
        }else{
         System.out.println("F");
        }
-
+       sc.close();
         
     }
     
